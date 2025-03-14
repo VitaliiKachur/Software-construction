@@ -1,0 +1,7 @@
+D:\Документи диск D\Конструювання\lab2\Factory method\Factory method\bin\Debug\Factory method.exe.config
+D:\Документи диск D\Конструювання\lab2\Factory method\Factory method\bin\Debug\Factory method.exe
+D:\Документи диск D\Конструювання\lab2\Factory method\Factory method\bin\Debug\Factory method.pdb
+D:\Документи диск D\Конструювання\lab2\Factory method\Factory method\obj\Debug\Factory method.csproj.AssemblyReference.cache
+D:\Документи диск D\Конструювання\lab2\Factory method\Factory method\obj\Debug\Factory method.csproj.CoreCompileInputs.cache
+D:\Документи диск D\Конструювання\lab2\Factory method\Factory method\obj\Debug\Factory method.exe
+D:\Документи диск D\Конструювання\lab2\Factory method\Factory method\obj\Debug\Factory method.pdb

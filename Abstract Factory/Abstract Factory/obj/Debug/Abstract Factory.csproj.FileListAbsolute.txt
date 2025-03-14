@@ -1,0 +1,7 @@
+D:\Документи диск D\Конструювання\lab2\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe.config
+D:\Документи диск D\Конструювання\lab2\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe
+D:\Документи диск D\Конструювання\lab2\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.pdb
+D:\Документи диск D\Конструювання\lab2\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.csproj.AssemblyReference.cache
+D:\Документи диск D\Конструювання\lab2\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.csproj.CoreCompileInputs.cache
+D:\Документи диск D\Конструювання\lab2\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.exe
+D:\Документи диск D\Конструювання\lab2\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.pdb

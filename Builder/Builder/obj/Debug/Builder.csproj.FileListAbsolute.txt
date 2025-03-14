@@ -1,0 +1,7 @@
+D:\Документи диск D\Конструювання\lab2\Builder\Builder\bin\Debug\Builder.exe.config
+D:\Документи диск D\Конструювання\lab2\Builder\Builder\bin\Debug\Builder.exe
+D:\Документи диск D\Конструювання\lab2\Builder\Builder\bin\Debug\Builder.pdb
+D:\Документи диск D\Конструювання\lab2\Builder\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+D:\Документи диск D\Конструювання\lab2\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\Документи диск D\Конструювання\lab2\Builder\Builder\obj\Debug\Builder.exe
+D:\Документи диск D\Конструювання\lab2\Builder\Builder\obj\Debug\Builder.pdb

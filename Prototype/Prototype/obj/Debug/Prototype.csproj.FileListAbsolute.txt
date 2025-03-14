@@ -1,0 +1,7 @@
+D:\Документи диск D\Конструювання\lab2\Prototype\Prototype\bin\Debug\Prototype.exe.config
+D:\Документи диск D\Конструювання\lab2\Prototype\Prototype\bin\Debug\Prototype.exe
+D:\Документи диск D\Конструювання\lab2\Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\Документи диск D\Конструювання\lab2\Prototype\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+D:\Документи диск D\Конструювання\lab2\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\Документи диск D\Конструювання\lab2\Prototype\Prototype\obj\Debug\Prototype.exe
+D:\Документи диск D\Конструювання\lab2\Prototype\Prototype\obj\Debug\Prototype.pdb
