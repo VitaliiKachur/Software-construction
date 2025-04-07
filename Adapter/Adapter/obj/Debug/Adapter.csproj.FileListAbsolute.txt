@@ -1,0 +1,7 @@
+D:\Документи диск D\Конструювання\lab3\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\Документи диск D\Конструювання\lab3\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\Документи диск D\Конструювання\lab3\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\Документи диск D\Конструювання\lab3\Adapter\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+D:\Документи диск D\Конструювання\lab3\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\Документи диск D\Конструювання\lab3\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\Документи диск D\Конструювання\lab3\Adapter\Adapter\obj\Debug\Adapter.pdb

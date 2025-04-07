@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\decorator\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|solutionrelative:decorator\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\decorator\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|solutionrelative:decorator\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A d\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\decorator\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\decorator\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|solutionrelative:decorator\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\decorator\\magicring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|solutionrelative:decorator\\magicring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\decorator\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|solutionrelative:decorator\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\decorator\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|solutionrelative:decorator\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\decorator\\herodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|solutionrelative:decorator\\herodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\decorator\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|solutionrelative:decorator\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\decorator\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C48903B-BF2B-42B5-AAF2-903B127D501A}|Decorator\\Decorator.csproj|solutionrelative:decorator\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Amulet.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\Amulet.cs",
+              "RelativeDocumentMoniker": "Decorator\\Amulet.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\Amulet.cs",
+              "RelativeToolTip": "Decorator\\Amulet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:20:55.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MagicRing.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\MagicRing.cs",
+              "RelativeDocumentMoniker": "Decorator\\MagicRing.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\MagicRing.cs",
+              "RelativeToolTip": "Decorator\\MagicRing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:20:27.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Armor.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\Armor.cs",
+              "RelativeDocumentMoniker": "Decorator\\Armor.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\Armor.cs",
+              "RelativeToolTip": "Decorator\\Armor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:19:57.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\Sword.cs",
+              "RelativeDocumentMoniker": "Decorator\\Sword.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\Sword.cs",
+              "RelativeToolTip": "Decorator\\Sword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:19:30.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HeroDecorator.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\HeroDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\HeroDecorator.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\HeroDecorator.cs",
+              "RelativeToolTip": "Decorator\\HeroDecorator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:18:51.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paladin.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\Paladin.cs",
+              "RelativeDocumentMoniker": "Decorator\\Paladin.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\Paladin.cs",
+              "RelativeToolTip": "Decorator\\Paladin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:18:20.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\Mage.cs",
+              "RelativeDocumentMoniker": "Decorator\\Mage.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\Mage.cs",
+              "RelativeToolTip": "Decorator\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:17:50.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\Warrior.cs",
+              "RelativeDocumentMoniker": "Decorator\\Warrior.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\Warrior.cs",
+              "RelativeToolTip": "Decorator\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:17:17.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHero.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\IHero.cs",
+              "RelativeDocumentMoniker": "Decorator\\IHero.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\IHero.cs",
+              "RelativeToolTip": "Decorator\\IHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:16:37.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Decorator\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:16:06.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

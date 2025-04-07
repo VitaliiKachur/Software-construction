@@ -1,0 +1,7 @@
+D:\Документи диск D\Конструювання\lab3\Proxy\Proxy\bin\Debug\Proxy.exe.config
+D:\Документи диск D\Конструювання\lab3\Proxy\Proxy\bin\Debug\Proxy.exe
+D:\Документи диск D\Конструювання\lab3\Proxy\Proxy\bin\Debug\Proxy.pdb
+D:\Документи диск D\Конструювання\lab3\Proxy\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+D:\Документи диск D\Конструювання\lab3\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\Документи диск D\Конструювання\lab3\Proxy\Proxy\obj\Debug\Proxy.exe
+D:\Документи диск D\Конструювання\lab3\Proxy\Proxy\obj\Debug\Proxy.pdb

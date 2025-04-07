@@ -1,0 +1,7 @@
+D:\Документи диск D\Конструювання\lab3\Lightweight\Lightweight\bin\Debug\Lightweight.exe.config
+D:\Документи диск D\Конструювання\lab3\Lightweight\Lightweight\bin\Debug\Lightweight.exe
+D:\Документи диск D\Конструювання\lab3\Lightweight\Lightweight\bin\Debug\Lightweight.pdb
+D:\Документи диск D\Конструювання\lab3\Lightweight\Lightweight\obj\Debug\Lightweight.csproj.AssemblyReference.cache
+D:\Документи диск D\Конструювання\lab3\Lightweight\Lightweight\obj\Debug\Lightweight.csproj.CoreCompileInputs.cache
+D:\Документи диск D\Конструювання\lab3\Lightweight\Lightweight\obj\Debug\Lightweight.exe
+D:\Документи диск D\Конструювання\lab3\Lightweight\Lightweight\obj\Debug\Lightweight.pdb
