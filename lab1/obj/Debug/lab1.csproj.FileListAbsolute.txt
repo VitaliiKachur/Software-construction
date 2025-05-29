@@ -1,0 +1,7 @@
+D:\Документи диск D\Конструювання\lab1\lab1\bin\Debug\lab1.exe.config
+D:\Документи диск D\Конструювання\lab1\lab1\bin\Debug\lab1.exe
+D:\Документи диск D\Конструювання\lab1\lab1\bin\Debug\lab1.pdb
+D:\Документи диск D\Конструювання\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\Документи диск D\Конструювання\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\Документи диск D\Конструювання\lab1\lab1\obj\Debug\lab1.exe
+D:\Документи диск D\Конструювання\lab1\lab1\obj\Debug\lab1.pdb
