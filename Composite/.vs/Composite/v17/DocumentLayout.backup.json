@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Composite\\",
+  "WorkspaceRootPath": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A d\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\composite\\composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|solutionrelative:composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A d\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\software-construction\\composite\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A d\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\composite\\composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|solutionrelative:composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A d\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\composite\\composite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\composite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|solutionrelative:composite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A d\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\composite\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|solutionrelative:composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A d\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\software-construction\\composite\\composite\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|solutionrelative:composite\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A d\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\software-construction\\composite\\composite\\depthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|solutionrelative:composite\\depthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A d\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\software-construction\\composite\\composite\\iiterablecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|solutionrelative:composite\\iiterablecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A d\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\software-construction\\composite\\composite\\breadthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|solutionrelative:composite\\breadthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BB1A5A-2F19-40EE-BC98-2B4BD6614CF7}|Composite\\Composite.csproj|solutionrelative:composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,12 +53,60 @@
               "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BreadthFirstIterator.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\BreadthFirstIterator.cs",
+              "RelativeDocumentMoniker": "Composite\\BreadthFirstIterator.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\BreadthFirstIterator.cs*",
+              "RelativeToolTip": "Composite\\BreadthFirstIterator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T21:14:15.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepthFirstIterator.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\DepthFirstIterator.cs",
+              "RelativeDocumentMoniker": "Composite\\DepthFirstIterator.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\DepthFirstIterator.cs*",
+              "RelativeToolTip": "Composite\\DepthFirstIterator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T21:13:52.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IIterableCollection.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\IIterableCollection.cs",
+              "RelativeDocumentMoniker": "Composite\\IIterableCollection.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\IIterableCollection.cs*",
+              "RelativeToolTip": "Composite\\IIterableCollection.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T21:13:27.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IIterator.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\IIterator.cs",
+              "RelativeDocumentMoniker": "Composite\\IIterator.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\IIterator.cs*",
+              "RelativeToolTip": "Composite\\IIterator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T21:12:48.773Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",
@@ -51,23 +115,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\Program.cs",
+              "RelativeDocumentMoniker": "Composite\\Program.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\Program.cs*",
+              "RelativeToolTip": "Composite\\Program.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:00:20.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "LightElementNode.cs",
-              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Composite\\Composite\\LightElementNode.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\LightElementNode.cs",
               "RelativeDocumentMoniker": "Composite\\LightElementNode.cs",
-              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Composite\\Composite\\LightElementNode.cs",
-              "RelativeToolTip": "Composite\\LightElementNode.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAkwA0AAAACAAAAAAAAAA==",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\LightElementNode.cs*",
+              "RelativeToolTip": "Composite\\LightElementNode.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T19:01:59.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LightTextNode.cs",
-              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Composite\\Composite\\LightTextNode.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\LightTextNode.cs",
               "RelativeDocumentMoniker": "Composite\\LightTextNode.cs",
-              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Composite\\Composite\\LightTextNode.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\LightTextNode.cs",
               "RelativeToolTip": "Composite\\LightTextNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,29 +153,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LightNode.cs",
-              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Composite\\Composite\\LightNode.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\LightNode.cs",
               "RelativeDocumentMoniker": "Composite\\LightNode.cs",
-              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Composite\\Composite\\LightNode.cs",
-              "RelativeToolTip": "Composite\\LightNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\111\\Software-construction\\Composite\\Composite\\LightNode.cs*",
+              "RelativeToolTip": "Composite\\LightNode.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T19:00:53.426Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Composite\\Composite\\Program.cs",
-              "RelativeDocumentMoniker": "Composite\\Program.cs",
-              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438 \u0434\u0438\u0441\u043A D\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\lab3\\Composite\\Composite\\Program.cs",
-              "RelativeToolTip": "Composite\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:00:20.825Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

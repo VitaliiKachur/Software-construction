@@ -34,6 +34,23 @@ namespace Composite
 
             Console.WriteLine("\n=== Демонстрація видалення ===");
             div.RemoveChild(img);
+
+
+            Console.WriteLine("\n=== Демонстрація ітератора (Depth First) ===");
+            var depthIterator = div.CreateDepthFirstIterator();
+            while (depthIterator.HasNext())
+            {
+                var node = depthIterator.Next();
+                Console.WriteLine($"Visited: {node.GetType().Name}");
+            }
+
+            Console.WriteLine("\n=== Демонстрація ітератора (Breadth First) ===");
+            var breadthIterator = div.CreateBreadthFirstIterator();
+            while (breadthIterator.HasNext())
+            {
+                var node = breadthIterator.Next();
+                Console.WriteLine($"Visited: {node.GetType().Name}");
+            }
         }
     }
 }

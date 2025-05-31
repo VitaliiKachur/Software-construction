@@ -6,8 +6,22 @@ using System.Threading.Tasks;
 
 namespace Composite
 {
-    abstract class LightNode
+    public abstract class LightNode : IIterableCollection
     {
+        public virtual IIterator CreateDepthFirstIterator()
+        {
+            return new DepthFirstIterator(this);
+        }
+
+        public virtual IIterator CreateBreadthFirstIterator()
+        {
+            return new BreadthFirstIterator(this);
+        }
+
+        public virtual IEnumerable<LightNode> GetChildren()
+        {
+            return Enumerable.Empty<LightNode>();
+        }
         public abstract string OuterHTML { get; }
         public abstract string InnerHTML { get; }
         public void Create()
