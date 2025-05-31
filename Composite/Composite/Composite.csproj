@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BreadthFirstIterator.cs" />
+    <Compile Include="DepthFirstIterator.cs" />
+    <Compile Include="IIterableCollection.cs" />
+    <Compile Include="IIterator.cs" />
     <Compile Include="LightElementNode.cs" />
     <Compile Include="LightNode.cs" />
     <Compile Include="LightTextNode.cs" />
