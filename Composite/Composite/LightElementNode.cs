@@ -8,6 +8,10 @@ namespace Composite
 {
     class LightElementNode : LightNode
     {
+        public override IEnumerable<LightNode> GetChildren()
+        {
+            return children.AsReadOnly();
+        }
         public string TagName { get; }
         public string DisplayType { get; }
         public bool IsSingleTag { get; }
