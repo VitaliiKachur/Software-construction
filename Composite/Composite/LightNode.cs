@@ -22,6 +22,10 @@ namespace Composite
         {
             return Enumerable.Empty<LightNode>();
         }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0cdedc8dfce6b9aa362788da70d5a7523ca62e4c
         public abstract string OuterHTML { get; }
         public abstract string InnerHTML { get; }
         public void Create()

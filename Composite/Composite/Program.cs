@@ -35,7 +35,10 @@ namespace Composite
             Console.WriteLine("\n=== Демонстрація видалення ===");
             div.RemoveChild(img);
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0cdedc8dfce6b9aa362788da70d5a7523ca62e4c
             Console.WriteLine("\n=== Демонстрація ітератора (Depth First) ===");
             var depthIterator = div.CreateDepthFirstIterator();
             while (depthIterator.HasNext())
