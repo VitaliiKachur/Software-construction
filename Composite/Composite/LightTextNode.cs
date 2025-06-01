@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Composite
 {
-    class LightTextNode : LightNode
+    public class LightTextNode : LightNode
     {
         private string text;
 
@@ -55,6 +55,10 @@ namespace Composite
         protected virtual void OnTextRendered()
         {
             Console.WriteLine($"[LIFECYCLE] Текстовий контент обробено успішно");
+        }
+        public override void Accept(ILightNodeVisitor visitor)
+        {
+            visitor.VisitText(this);
         }
     }
 }

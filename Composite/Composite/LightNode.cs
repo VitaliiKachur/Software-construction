@@ -8,6 +8,7 @@ namespace Composite
 {
     public abstract class LightNode : IIterableCollection
     {
+        public abstract void Accept(ILightNodeVisitor visitor);
         protected IVisibilityState _visibilityState = new VisibleState();
 
         public void Show()

@@ -129,5 +129,14 @@ namespace Composite
         }
 
         public bool RemoveClass(string className) => CssClasses.Remove(className);
+
+        public override void Accept(ILightNodeVisitor visitor)
+        {
+            visitor.VisitElement(this);
+            foreach (var child in children)
+            {
+                child.Accept(visitor);
+            }
+        }
     }
 }
