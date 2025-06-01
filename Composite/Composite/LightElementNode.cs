@@ -2,16 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Composite
 {
-    class LightElementNode : LightNode
+    public class LightElementNode : LightNode
     {
-        public override IEnumerable<LightNode> GetChildren()
-        {
-            return children.AsReadOnly();
-        }
         public string TagName { get; }
         public string DisplayType { get; }
         public bool IsSingleTag { get; }
@@ -27,6 +22,8 @@ namespace Composite
             IsSingleTag = isSingleTag;
             Create();
         }
+
+        public override IEnumerable<LightNode> GetChildren() => children.AsReadOnly();
 
         public void AddClass(string className)
         {
@@ -67,40 +64,20 @@ namespace Composite
             }
         }
 
-        public override string OuterHTML
-        {
-            get
-            {
-                return Render();
-            }
-        }
+        public override string OuterHTML => Render();
 
-        protected override void DoCreate()
-        {
-            isCreated = true;
-        }
+        protected override void DoCreate() => isCreated = true;
 
         protected override string DoRender()
         {
             var classAttr = CssClasses.Count > 0 ? $" class=\"{string.Join(" ", CssClasses)}\"" : "";
-
-            if (IsSingleTag)
-            {
-                return $"<{TagName}{classAttr}/>";
-            }
-
-            return $"<{TagName}{classAttr}>{InnerHTML}</{TagName}>";
+            return IsSingleTag
+                ? $"<{TagName}{classAttr}/>"
+                : $"<{TagName}{classAttr}>{InnerHTML}</{TagName}>";
         }
 
-        protected override void DoInsert()
-        {
-            isInserted = true;
-        }
-
-        protected override void DoRemove()
-        {
-            isInserted = false;
-        }
+        protected override void DoInsert() => isInserted = true;
+        protected override void DoRemove() => isInserted = false;
 
         protected override void OnCreated()
         {
@@ -139,5 +116,16 @@ namespace Composite
         {
             Console.WriteLine($"[LIFECYCLE] Клас додано до <{TagName}>: {CssClasses.Last()}");
         }
+
+        public void InsertChild(LightNode child, int index)
+        {
+            if (!IsSingleTag && index >= 0 && index <= children.Count)
+            {
+                children.Insert(index, child);
+                child.Insert();
+            }
+        }
+
+        public bool RemoveClass(string className) => CssClasses.Remove(className);
     }
 }
