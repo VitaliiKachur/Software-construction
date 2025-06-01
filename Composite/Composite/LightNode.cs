@@ -8,6 +8,26 @@ namespace Composite
 {
     public abstract class LightNode : IIterableCollection
     {
+        protected IVisibilityState _visibilityState = new VisibleState();
+
+        public void Show()
+        {
+            _visibilityState = new VisibleState();
+            OnVisibilityChanged(true);
+        }
+
+        public void Hide()
+        {
+            _visibilityState = new HiddenState();
+            OnVisibilityChanged(false);
+        }
+
+        public string GetCurrentVisibilityState() => _visibilityState.GetStateName();
+
+        protected virtual void OnVisibilityChanged(bool isVisible)
+        {
+            Console.WriteLine($"[СТАН] Елемент змінив видимість на: {(isVisible ? "Видимий" : "Прихований")}");
+        }
         public virtual IIterator CreateDepthFirstIterator()
         {
             return new DepthFirstIterator(this);

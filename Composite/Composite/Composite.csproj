@@ -48,9 +48,11 @@
     <Compile Include="BreadthFirstIterator.cs" />
     <Compile Include="CommandHistory.cs" />
     <Compile Include="DepthFirstIterator.cs" />
+    <Compile Include="HiddenState.cs" />
     <Compile Include="ICommand.cs" />
     <Compile Include="IIterableCollection.cs" />
     <Compile Include="IIterator.cs" />
+    <Compile Include="IVisibilityState.cs" />
     <Compile Include="LightElementNode.cs" />
     <Compile Include="LightNode.cs" />
     <Compile Include="LightTextNode.cs" />
@@ -58,6 +60,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveChildCommand.cs" />
     <Compile Include="RemoveClassCommand.cs" />
+    <Compile Include="VisibleState.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
