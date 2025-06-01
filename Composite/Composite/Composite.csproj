@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddChildCommand.cs" />
+    <Compile Include="AddClassCommand.cs" />
     <Compile Include="BreadthFirstIterator.cs" />
+    <Compile Include="CommandHistory.cs" />
     <Compile Include="DepthFirstIterator.cs" />
+    <Compile Include="ICommand.cs" />
     <Compile Include="IIterableCollection.cs" />
     <Compile Include="IIterator.cs" />
     <Compile Include="LightElementNode.cs" />
@@ -52,6 +56,8 @@
     <Compile Include="LightTextNode.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoveChildCommand.cs" />
+    <Compile Include="RemoveClassCommand.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

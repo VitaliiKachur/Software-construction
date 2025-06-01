@@ -50,6 +50,21 @@ namespace Composite
                 var node = breadthIterator.Next();
                 Console.WriteLine($"Visited: {node.GetType().Name}");
             }
+
+
+            Console.WriteLine("\n=== Демонстрація команди ===");
+            var history = new CommandHistory();
+            var div3 = new LightElementNode("div3", "block");
+
+            history.Execute(new AddClassCommand(div3, "container"));
+            history.Execute(new AddClassCommand(div3, "dark-mode"));
+
+            var p3 = new LightElementNode("p", "block");
+            history.Execute(new AddChildCommand(div3, p3));
+
+            history.Undo();
+
+            history.Redo();
         }
     }
 }
