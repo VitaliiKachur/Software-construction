@@ -65,6 +65,22 @@ namespace Composite
             history.Undo();
 
             history.Redo();
+
+
+            Console.WriteLine("\n=== Демонстрація State Pattern ===");
+            var div4 = new LightElementNode("div4", "block");
+            div4.AddChild(new LightTextNode("Привіт, світе!"));
+
+            Console.WriteLine("Початковий стан: " + div4.GetCurrentVisibilityState());
+            Console.WriteLine("HTML до приховування:\n" + div4.OuterHTML);
+
+            div4.Hide(); 
+            Console.WriteLine("\nСтан після Hide(): " + div4.GetCurrentVisibilityState());
+            Console.WriteLine("HTML після приховування:\n" + div4.OuterHTML);
+
+            div4.Show(); 
+            Console.WriteLine("\nСтан після Show(): " + div4.GetCurrentVisibilityState());
+            Console.WriteLine("HTML після показу:\n" + div4.OuterHTML);
         }
     }
 }

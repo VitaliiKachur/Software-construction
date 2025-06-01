@@ -71,9 +71,11 @@ namespace Composite
         protected override string DoRender()
         {
             var classAttr = CssClasses.Count > 0 ? $" class=\"{string.Join(" ", CssClasses)}\"" : "";
-            return IsSingleTag
+            var html = IsSingleTag
                 ? $"<{TagName}{classAttr}/>"
                 : $"<{TagName}{classAttr}>{InnerHTML}</{TagName}>";
+
+            return _visibilityState.ApplyState(html); // Застосовуємо стан
         }
 
         protected override void DoInsert() => isInserted = true;
