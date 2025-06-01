@@ -46,12 +46,14 @@
     <Compile Include="AddChildCommand.cs" />
     <Compile Include="AddClassCommand.cs" />
     <Compile Include="BreadthFirstIterator.cs" />
+    <Compile Include="ClassCounterVisitor.cs" />
     <Compile Include="CommandHistory.cs" />
     <Compile Include="DepthFirstIterator.cs" />
     <Compile Include="HiddenState.cs" />
     <Compile Include="ICommand.cs" />
     <Compile Include="IIterableCollection.cs" />
     <Compile Include="IIterator.cs" />
+    <Compile Include="ILightNodeVisitor.cs" />
     <Compile Include="IVisibilityState.cs" />
     <Compile Include="LightElementNode.cs" />
     <Compile Include="LightNode.cs" />

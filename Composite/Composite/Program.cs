@@ -81,6 +81,12 @@ namespace Composite
             div4.Show(); 
             Console.WriteLine("\nСтан після Show(): " + div4.GetCurrentVisibilityState());
             Console.WriteLine("HTML після показу:\n" + div4.OuterHTML);
+
+            Console.WriteLine("\n=== Демонстрація Visitor Pattern ===");
+            var visitor = new ClassCounterVisitor();
+            div.Accept(visitor);
+
+            Console.WriteLine($"Знайдено класів у дереві: {visitor.TotalClasses}");
         }
     }
 }
